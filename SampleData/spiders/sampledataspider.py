@@ -2,7 +2,7 @@ import scrapy
 from urllib.parse import urlencode
 #from SampleData.items import names
 
-API_KEY = '52d633b8-2a08-41e8-b0d4-7d3bd26e65e9'
+API_KEY = '983e9cb8-ec3e-4d5f-9ae1-874837c26cbe'
 
 
 def get_scrapeops_url(url):
