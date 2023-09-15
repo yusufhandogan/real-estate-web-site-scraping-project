@@ -18,10 +18,10 @@ class QuotesSpider(scrapy.Spider):
     def start_requests(self):
 
         urls = [
-                'https://www.rumah.com/agen-properti/kalimantan-timur',
-                'https://www.rumah.com/agen-properti/kalimantan-timur/2',
-                'https://www.rumah.com/agen-properti/kalimantan-timur/3',
-                'https://www.rumah.com/agen-properti/kalimantan-timur/4'                
+                'https://www.rumah.com/agen-properti/kalimantan-selatan',
+                'https://www.rumah.com/agen-properti/kalimantan-selatan/2',
+                'https://www.rumah.com/agen-properti/kalimantan-selatan/3',
+                'https://www.rumah.com/agen-properti/kalimantan-selatan/4'                
 
         ]
 
