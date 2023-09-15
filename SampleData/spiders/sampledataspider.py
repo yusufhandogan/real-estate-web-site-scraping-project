@@ -18,8 +18,9 @@ class QuotesSpider(scrapy.Spider):
     def start_requests(self):
 
         urls = [
-                'https://www.rumah.com/agen-properti/nusa-tenggara-barat',
-                'https://www.rumah.com/agen-properti/nusa-tenggara-barat/2',
+                'https://www.rumah.com/agen-properti/nusa-tenggara-timur',
+                'https://www.rumah.com/agen-properti/nusa-tenggara-timur/2',
+                'https://www.rumah.com/agen-properti/nusa-tenggara-timur/3',
 
         ]
 
