@@ -22,6 +22,7 @@ class QuotesSpider(scrapy.Spider):
                 'https://www.rumah.com/agen-properti/kalimantan-barat/2',
                 'https://www.rumah.com/agen-properti/kalimantan-barat/3',
                 'https://www.rumah.com/agen-properti/kalimantan-barat/4',
+
         ]
 
         for url in urls:
