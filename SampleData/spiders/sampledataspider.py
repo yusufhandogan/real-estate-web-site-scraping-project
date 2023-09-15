@@ -18,8 +18,11 @@ class QuotesSpider(scrapy.Spider):
     def start_requests(self):
 
         urls = [
-            'https://www.rumah.com/agen-properti/gorontalo',
-            'https://www.rumah.com/agen-properti/gorontalo/2'
+            'https://www.rumah.com/agen-properti/jambi',
+            'https://www.rumah.com/agen-properti/jambi/2',
+            'https://www.rumah.com/agen-properti/jambi/3',
+            'https://www.rumah.com/agen-properti/jambi/4'
+
         ]
 
         for url in urls:
