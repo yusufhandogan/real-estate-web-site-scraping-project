@@ -18,8 +18,8 @@ class QuotesSpider(scrapy.Spider):
     def start_requests(self):
 
         urls = [
-                'https://www.rumah.com/agen-properti/maluku-utara',
-                'https://www.rumah.com/agen-properti/maluku-utara/2',
+                'https://www.rumah.com/agen-properti/nusa-tenggara-barat',
+                'https://www.rumah.com/agen-properti/nusa-tenggara-barat/2',
 
         ]
 
