@@ -6,7 +6,7 @@ from scraper_api import ScraperAPIClient
 from urllib.parse import urlparse, parse_qs
 
 
-client = ScraperAPIClient("3197b45158c51dde05244abef4d76696")
+client = ScraperAPIClient("735368472ceff37618951c629a812303")
 
 
 # def get_scraperapi_url(url):
